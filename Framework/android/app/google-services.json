@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074759976733",
+    "project_id": "daily-journal-c9745",
+    "storage_bucket": "daily-journal-c9745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074759976733:android:160ce8dddb18101cfd43f4",
+        "android_client_info": {
+          "package_name": "com.example.daily_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCg1wwtZqa4hh23qUcA7l9X6oMveC2Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
